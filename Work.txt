@@ -10,9 +10,7 @@ Download Trained Data Sets
 View Drug Recommendation Type Ratio Results 
 View All Remote Users
 
-
 Remote User
-
 
 REGISTER AND LOGIN,
 PREDICT DRUG RECOMMENDATION TYPE, 
